@@ -1,2 +1,8 @@
 # Hotel-Booking-Website
 Our project is a hotel management system which will make booking a hotel a seamless and hassle-free experience. It also provides a smooth experience to the admin who can view all the information regarding rooms, reservations and users currently using the system.
+User can go to different pages by clicking the items present in the navigation bar at the top. This navbar has been implemented using Bootstrap 5.
+On the Homepage, the user can view the pictures of the location which are displayed using a carousel. Automation is added so that the carousel can change pictures on its own. A brief description about our hotel’s ideology is given next. 
+A contact us section is created which gives the user our contact information. The names of the developers are also shown. Also the location is also shared through an embedded google map.
+On the Rooms & facilities page, the user is shown the different types of rooms that are offered and the facilities they have. The user can book the room from the adjacent book now button. User has to enter the check-in and check-out dates, full name and phone number.
+On the Online Reservation page user can check the availability in the hotel. Inputs reauired are the check in and check out dates. Accordingly the available rooms are shown to the user and they can book the rooms as per their needs.
+On clicking the Admin link, the user is redirected to an admin login page where they have to enter their username and password. Tasks that the admin can perform are room viewing and modification, booking viewing and modification and can also add a new manager(admin) to the database. Admin can also book a room. Logout button is pressed to exit admin mode.
